@@ -4,7 +4,7 @@ Exploring Apache Spark
 
 [Pyspark Session](#pyspark-session)
 
-## Installation
+# Installation
 **How to install and run apache spark using homebrew in Mac OS**:
 ### 1. Install Java
 Apache Spark requires Java, make sure that you have java installed with its latest verision.
@@ -27,7 +27,7 @@ export SPARK_HOME='/usr/local/Cellar/apache-spark/3.5.4'
    `pyspark`
    differs depending on set up of your local environment but my system requires that I run pyspark as root user. Running as user account or admin user displays no output (corrupt symlink to bin/pyspark executable).
    
-## Pyspark Session
+# Pyspark Session
 After install apache spark and needed environment variables I can now open and interact with my pyspark shell.
 <img width="1266" alt="Screenshot 2025-01-21 at 10 24 11 PM" src="https://github.com/user-attachments/assets/15ad357b-614c-464b-ac21-60e8a07c91ba" />
 
